@@ -1,0 +1,41 @@
+module ps2toascii(ps2_out, morse_ascii)
+	input [7:0] ps2_out;
+	output [31:0] morse_ascii;
+
+		assign morse_ascii = ((ps2_out===8'h45)|(ps2_out===8'h70)) ? 32'd48:
+								((ps2_out===8'h16)|(ps2_out===8'h69)) ? 32'd49:
+								((ps2_out===8'h1E)|(ps2_out===8'h72)) ? 32'd50:
+								((ps2_out===8'h26)|(ps2_out===8'h7A)) ? 32'd51:
+								((ps2_out===8'h25)|(ps2_out===8'h6B)) ? 32'd52:
+								((ps2_out===8'h2E)|(ps2_out===8'h73)) ? 32'd53:
+								((ps2_out===8'h36)|(ps2_out===8'h74)) ? 32'd54:
+								((ps2_out===8'h3D)|(ps2_out===8'h6C)) ? 32'd55:
+								((ps2_out===8'h3E)|(ps2_out===8'h75)) ? 32'd56:
+								((ps2_out===8'h46)|(ps2_out===8'h7D)) ? 32'd57:
+								(ps2_out===8'h1C) ? 32'd65:
+								(ps2_out===8'h32) ? 32'd66: 
+								(ps2_out===8'h21) ? 32'd67:
+								(ps2_out===8'h23) ? 32'd68:
+								(ps2_out===8'h24) ? 32'd69: 
+								(ps2_out===8'h2B) ? 32'd70:
+								(ps2_out===8'h34) ? 32'd71:
+								(ps2_out===8'h33) ? 32'd72: 
+								(ps2_out===8'h43) ? 32'd73:
+								(ps2_out===8'h3B) ? 32'd74:
+								(ps2_out===8'h42) ? 32'd75: 
+								(ps2_out===8'h4B) ? 32'd76:
+								(ps2_out===8'h3A) ? 32'd77:
+								(ps2_out===8'h31) ? 32'd78: 
+								(ps2_out===8'h44) ? 32'd79:
+								(ps2_out===8'h4D) ? 32'd80:
+								(ps2_out===8'h15) ? 32'd81: 
+								(ps2_out===8'h2D) ? 32'd82:
+								(ps2_out===8'h1B) ? 32'd83:
+								(ps2_out===8'h2C) ? 32'd84: 
+								(ps2_out===8'h3C) ? 32'd85:
+								(ps2_out===8'h2A) ? 32'd86: 
+								(ps2_out===8'h1D) ? 32'd87:
+								(ps2_out===8'h22) ? 32'd88:
+								(ps2_out===8'h35) ? 32'd89: 
+								(ps2_out===8'h1A) ? 32'd90:32'd0;
+endmodule

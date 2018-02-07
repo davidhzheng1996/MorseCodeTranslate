@@ -1,0 +1,197 @@
+Flow report for skeleton
+Sat Dec 16 09:36:32 2017
+Quartus Prime Version 17.0.0 Build 595 04/25/2017 SJ Lite Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Flow Summary
+  3. Flow Settings
+  4. Flow Non-Default Global Settings
+  5. Flow Elapsed Time
+  6. Flow OS Summary
+  7. Flow Log
+  8. Flow Messages
+  9. Flow Suppressed Messages
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 2017  Intel Corporation. All rights reserved.
+Your use of Intel Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Intel Program License 
+Subscription Agreement, the Intel Quartus Prime License Agreement,
+the Intel MegaCore Function License Agreement, or other 
+applicable license agreement, including, without limitation, 
+that your use is for the sole purpose of programming logic 
+devices manufactured by Intel and sold by Intel or its 
+authorized distributors.  Please refer to the applicable 
+agreement for further details.
+
+
+
++----------------------------------------------------------------------------------+
+; Flow Summary                                                                     ;
++------------------------------------+---------------------------------------------+
+; Flow Status                        ; Successful - Sat Dec 16 09:36:32 2017       ;
+; Quartus Prime Version              ; 17.0.0 Build 595 04/25/2017 SJ Lite Edition ;
+; Revision Name                      ; skeleton                                    ;
+; Top-level Entity Name              ; skeleton                                    ;
+; Family                             ; Cyclone IV E                                ;
+; Device                             ; EP4CE115F29C7                               ;
+; Timing Models                      ; Final                                       ;
+; Total logic elements               ; 5,453 / 114,480 ( 5 % )                     ;
+;     Total combinational functions  ; 5,174 / 114,480 ( 5 % )                     ;
+;     Dedicated logic registers      ; 2,397 / 114,480 ( 2 % )                     ;
+; Total registers                    ; 2397                                        ;
+; Total pins                         ; 221 / 529 ( 42 % )                          ;
+; Total virtual pins                 ; 0                                           ;
+; Total memory bits                  ; 2,594,816 / 3,981,312 ( 65 % )              ;
+; Embedded Multiplier 9-bit elements ; 0 / 532 ( 0 % )                             ;
+; Total PLLs                         ; 1 / 4 ( 25 % )                              ;
++------------------------------------+---------------------------------------------+
+
+
++-----------------------------------------+
+; Flow Settings                           ;
++-------------------+---------------------+
+; Option            ; Setting             ;
++-------------------+---------------------+
+; Start date & time ; 12/16/2017 09:20:39 ;
+; Main task         ; Compilation         ;
+; Revision Name     ; skeleton            ;
++-------------------+---------------------+
+
+
++------------------------------------------------------------------------------------------------------------------------------+
+; Flow Non-Default Global Settings                                                                                             ;
++--------------------------------------+----------------------------------------+---------------+-------------+----------------+
+; Assignment Name                      ; Value                                  ; Default Value ; Entity Name ; Section Id     ;
++--------------------------------------+----------------------------------------+---------------+-------------+----------------+
+; COMPILER_SIGNATURE_ID                ; 66692968316566.151343403906480         ; --            ; --          ; --             ;
+; EDA_DESIGN_INSTANCE_NAME             ; NA                                     ; --            ; --          ; skeleton_tb    ;
+; EDA_NATIVELINK_SIMULATION_TEST_BENCH ; skeleton_tb                            ; --            ; --          ; eda_simulation ;
+; EDA_OUTPUT_DATA_FORMAT               ; Verilog Hdl                            ; --            ; --          ; eda_simulation ;
+; EDA_SIMULATION_TOOL                  ; ModelSim-Altera (Verilog)              ; <None>        ; --          ; --             ;
+; EDA_TEST_BENCH_ENABLE_STATUS         ; TEST_BENCH_MODE                        ; --            ; --          ; eda_simulation ;
+; EDA_TEST_BENCH_FILE                  ; skeleton_tb.v                          ; --            ; --          ; skeleton_tb    ;
+; EDA_TEST_BENCH_MODULE_NAME           ; skeleton_tb                            ; --            ; --          ; skeleton_tb    ;
+; EDA_TEST_BENCH_NAME                  ; skeleton_tb                            ; --            ; --          ; eda_simulation ;
+; EDA_TIME_SCALE                       ; 1 ps                                   ; --            ; --          ; eda_simulation ;
+; MAX_CORE_JUNCTION_TEMP               ; 85                                     ; --            ; --          ; --             ;
+; MIN_CORE_JUNCTION_TEMP               ; 0                                      ; --            ; --          ; --             ;
+; MISC_FILE                            ; pll.bsf                                ; --            ; --          ; --             ;
+; MISC_FILE                            ; pll.cmp                                ; --            ; --          ; --             ;
+; MISC_FILE                            ; pll.ppf                                ; --            ; --          ; --             ;
+; MISC_FILE                            ; imem.bsf                               ; --            ; --          ; --             ;
+; MISC_FILE                            ; imem_inst.v                            ; --            ; --          ; --             ;
+; MISC_FILE                            ; imem_bb.v                              ; --            ; --          ; --             ;
+; MISC_FILE                            ; imem.cmp                               ; --            ; --          ; --             ;
+; MISC_FILE                            ; imem_syn.v                             ; --            ; --          ; --             ;
+; MISC_FILE                            ; dmem_inst.v                            ; --            ; --          ; --             ;
+; MISC_FILE                            ; dmem.cmp                               ; --            ; --          ; --             ;
+; MISC_FILE                            ; img_dataB_bb.v                         ; --            ; --          ; --             ;
+; MISC_FILE                            ; img_indexB_bb.v                        ; --            ; --          ; --             ;
+; MISC_FILE                            ; img_dataC_bb.v                         ; --            ; --          ; --             ;
+; MISC_FILE                            ; img_indexC_bb.v                        ; --            ; --          ; --             ;
+; MISC_FILE                            ; img_dataD_bb.v                         ; --            ; --          ; --             ;
+; MISC_FILE                            ; img_indexD_bb.v                        ; --            ; --          ; --             ;
+; MISC_FILE                            ; img_dataE_bb.v                         ; --            ; --          ; --             ;
+; MISC_FILE                            ; img_indexE_bb.v                        ; --            ; --          ; --             ;
+; MISC_FILE                            ; img_dataF_bb.v                         ; --            ; --          ; --             ;
+; MISC_FILE                            ; img_indexF_bb.v                        ; --            ; --          ; --             ;
+; MISC_FILE                            ; img_dataG_bb.v                         ; --            ; --          ; --             ;
+; MISC_FILE                            ; img_indexG_bb.v                        ; --            ; --          ; --             ;
+; MISC_FILE                            ; img_dataH_bb.v                         ; --            ; --          ; --             ;
+; MISC_FILE                            ; img_indexH_bb.v                        ; --            ; --          ; --             ;
+; MISC_FILE                            ; img_dataI_bb.v                         ; --            ; --          ; --             ;
+; MISC_FILE                            ; img_indexI_bb.v                        ; --            ; --          ; --             ;
+; MISC_FILE                            ; img_dataJ_bb.v                         ; --            ; --          ; --             ;
+; MISC_FILE                            ; img_indexJ_bb.v                        ; --            ; --          ; --             ;
+; MISC_FILE                            ; img_dataK_bb.v                         ; --            ; --          ; --             ;
+; MISC_FILE                            ; img_indexK_bb.v                        ; --            ; --          ; --             ;
+; MISC_FILE                            ; img_dataL_bb.v                         ; --            ; --          ; --             ;
+; MISC_FILE                            ; img_indexL_bb.v                        ; --            ; --          ; --             ;
+; MISC_FILE                            ; img_dataM_bb.v                         ; --            ; --          ; --             ;
+; MISC_FILE                            ; img_indexM_bb.v                        ; --            ; --          ; --             ;
+; MISC_FILE                            ; img_dataN_bb.v                         ; --            ; --          ; --             ;
+; MISC_FILE                            ; img_indexN_bb.v                        ; --            ; --          ; --             ;
+; MISC_FILE                            ; img_dataO_bb.v                         ; --            ; --          ; --             ;
+; MISC_FILE                            ; img_indexO_bb.v                        ; --            ; --          ; --             ;
+; MISC_FILE                            ; img_dataP_bb.v                         ; --            ; --          ; --             ;
+; MISC_FILE                            ; img_indexP_bb.v                        ; --            ; --          ; --             ;
+; MISC_FILE                            ; img_dataQ_bb.v                         ; --            ; --          ; --             ;
+; MISC_FILE                            ; img_indexQ_bb.v                        ; --            ; --          ; --             ;
+; MISC_FILE                            ; img_dataR_bb.v                         ; --            ; --          ; --             ;
+; MISC_FILE                            ; img_indexR_bb.v                        ; --            ; --          ; --             ;
+; MISC_FILE                            ; img_dataS_bb.v                         ; --            ; --          ; --             ;
+; MISC_FILE                            ; img_indexS_bb.v                        ; --            ; --          ; --             ;
+; MISC_FILE                            ; img_dataT_bb.v                         ; --            ; --          ; --             ;
+; MISC_FILE                            ; img_indexT_bb.v                        ; --            ; --          ; --             ;
+; MISC_FILE                            ; img_dataU_bb.v                         ; --            ; --          ; --             ;
+; MISC_FILE                            ; img_indexU_bb.v                        ; --            ; --          ; --             ;
+; MISC_FILE                            ; img_dataV_bb.v                         ; --            ; --          ; --             ;
+; MISC_FILE                            ; img_indexV_bb.v                        ; --            ; --          ; --             ;
+; MISC_FILE                            ; img_dataW_bb.v                         ; --            ; --          ; --             ;
+; MISC_FILE                            ; img_indexW_bb.v                        ; --            ; --          ; --             ;
+; MISC_FILE                            ; img_dataX_bb.v                         ; --            ; --          ; --             ;
+; MISC_FILE                            ; img_indexX_bb.v                        ; --            ; --          ; --             ;
+; MISC_FILE                            ; img_dataY_bb.v                         ; --            ; --          ; --             ;
+; MISC_FILE                            ; img_indexY_bb.v                        ; --            ; --          ; --             ;
+; MISC_FILE                            ; img_dataZ_bb.v                         ; --            ; --          ; --             ;
+; MISC_FILE                            ; img_indexZ_bb.v                        ; --            ; --          ; --             ;
+; PARTITION_COLOR                      ; -- (Not supported for targeted family) ; --            ; --          ; Top            ;
+; PARTITION_FITTER_PRESERVATION_LEVEL  ; -- (Not supported for targeted family) ; --            ; --          ; Top            ;
+; PARTITION_NETLIST_TYPE               ; -- (Not supported for targeted family) ; --            ; --          ; Top            ;
+; POWER_BOARD_THERMAL_MODEL            ; None (CONSERVATIVE)                    ; --            ; --          ; --             ;
+; POWER_PRESET_COOLING_SOLUTION        ; 23 MM HEAT SINK WITH 200 LFPM AIRFLOW  ; --            ; --          ; --             ;
+; PROJECT_OUTPUT_DIRECTORY             ; output_files                           ; --            ; --          ; --             ;
++--------------------------------------+----------------------------------------+---------------+-------------+----------------+
+
+
++-------------------------------------------------------------------------------------------------------------------------------+
+; Flow Elapsed Time                                                                                                             ;
++---------------------------+--------------+-------------------------+---------------------+------------------------------------+
+; Module Name               ; Elapsed Time ; Average Processors Used ; Peak Virtual Memory ; Total CPU Time (on all processors) ;
++---------------------------+--------------+-------------------------+---------------------+------------------------------------+
+; Analysis & Synthesis      ; 00:01:10     ; 1.0                     ; 794 MB              ; 00:01:29                           ;
+; Fitter                    ; 00:13:57     ; 1.0                     ; 1531 MB             ; 00:14:50                           ;
+; Assembler                 ; 00:00:07     ; 1.0                     ; 655 MB              ; 00:00:07                           ;
+; TimeQuest Timing Analyzer ; 00:00:12     ; 1.3                     ; 851 MB              ; 00:00:12                           ;
+; EDA Netlist Writer        ; 00:00:12     ; 1.0                     ; 685 MB              ; 00:00:11                           ;
+; Total                     ; 00:15:38     ; --                      ; --                  ; 00:16:49                           ;
++---------------------------+--------------+-------------------------+---------------------+------------------------------------+
+
+
++-----------------------------------------------------------------------------------------+
+; Flow OS Summary                                                                         ;
++---------------------------+------------------+------------+------------+----------------+
+; Module Name               ; Machine Hostname ; OS Name    ; OS Version ; Processor type ;
++---------------------------+------------------+------------+------------+----------------+
+; Analysis & Synthesis      ; Suarez           ; Windows 10 ; 10.0       ; x86_64         ;
+; Fitter                    ; Suarez           ; Windows 10 ; 10.0       ; x86_64         ;
+; Assembler                 ; Suarez           ; Windows 10 ; 10.0       ; x86_64         ;
+; TimeQuest Timing Analyzer ; Suarez           ; Windows 10 ; 10.0       ; x86_64         ;
+; EDA Netlist Writer        ; Suarez           ; Windows 10 ; 10.0       ; x86_64         ;
++---------------------------+------------------+------------+------------+----------------+
+
+
+------------
+; Flow Log ;
+------------
+quartus_map --read_settings_files=on --write_settings_files=off skeleton -c skeleton
+quartus_fit --read_settings_files=off --write_settings_files=off skeleton -c skeleton
+quartus_asm --read_settings_files=off --write_settings_files=off skeleton -c skeleton
+quartus_sta skeleton -c skeleton
+quartus_eda --read_settings_files=off --write_settings_files=off skeleton -c skeleton
+
+
+

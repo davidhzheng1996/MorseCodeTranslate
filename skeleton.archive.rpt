@@ -1,0 +1,317 @@
+Archive Project report for skeleton
+Fri Dec 08 03:00:05 2017
+Quartus Prime Version 17.0.0 Build 595 04/25/2017 SJ Lite Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Archive Project Summary
+  3. Archive Project Messages
+  4. Files Archived
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 2017  Intel Corporation. All rights reserved.
+Your use of Intel Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Intel Program License 
+Subscription Agreement, the Intel Quartus Prime License Agreement,
+the Intel MegaCore Function License Agreement, or other 
+applicable license agreement, including, without limitation, 
+that your use is for the sole purpose of programming logic 
+devices manufactured by Intel and sold by Intel or its 
+authorized distributors.  Please refer to the applicable 
+agreement for further details.
+
+
+
++----------------------------------------------------------------+
+; Archive Project Summary                                        ;
++------------------------+---------------------------------------+
+; Archive Project Status ; Successful - Fri Dec 08 03:00:05 2017 ;
+; Revision Name          ; skeleton                              ;
+; Top-level Entity Name  ; skeleton                              ;
+; Family                 ; Cyclone IV E                          ;
++------------------------+---------------------------------------+
+
+
++--------------------------+
+; Archive Project Messages ;
++--------------------------+
+Info: File Set 'Source control' contains:
+    Info: Project source and settings files
+    Info: Automatically detected source files
+Info: Archive will store files relative to the closest common parent directory
+Info (13213): Using common directory C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/
+Info: ----------------------------------------------------------
+Info: ----------------------------------------------------------
+Info: Generated archive 'C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/skeleton1.qar'
+Info: ----------------------------------------------------------
+Info: ----------------------------------------------------------
+Info: Generated report 'skeleton.archive.rpt'
+Info (23030): Evaluation of Tcl script c:/intelfpga_lite/17.0/quartus/common/tcl/apps/qpm/qar.tcl was successful
+Info: Quartus Prime Shell was successful. 0 errors, 0 warnings
+    Info: Peak virtual memory: 790 megabytes
+    Info: Processing ended: Fri Dec 08 03:00:05 2017
+    Info: Elapsed time: 00:00:07
+    Info: Total CPU time (on all processors): 00:00:07
+
+
++----------------------------------+
+; Files Archived                   ;
++----------------------------------+
+; File Name                        ;
++----------------------------------+
+; Altera_UP_PS2_Command_Out.v      ;
+; Altera_UP_PS2_Data_In.v          ;
+; ascii_to_seven_seg.v             ;
+; assignment_defaults.qdf          ;
+; color_data.mif                   ;
+; color_data1.mif                  ;
+; color_datac.mif                  ;
+; color_datad.mif                  ;
+; color_datae.mif                  ;
+; color_dataf.mif                  ;
+; color_datag.mif                  ;
+; color_datah.mif                  ;
+; color_datai.mif                  ;
+; color_dataj.mif                  ;
+; color_datak.mif                  ;
+; color_datal.mif                  ;
+; color_datam.mif                  ;
+; color_datan.mif                  ;
+; color_datao.mif                  ;
+; color_datap.mif                  ;
+; color_dataq.mif                  ;
+; color_datar.mif                  ;
+; color_datas.mif                  ;
+; color_datat.mif                  ;
+; color_datau.mif                  ;
+; color_datav.mif                  ;
+; color_dataw.mif                  ;
+; color_datax.mif                  ;
+; color_datay.mif                  ;
+; color_dataz.mif                  ;
+; dmem.cmp                         ;
+; dmem.mif                         ;
+; dmem.qip                         ;
+; dmem.v                           ;
+; dmem_inst.v                      ;
+; Hexadecimal_To_Seven_Segment.v   ;
+; image_data.mif                   ;
+; image_data1.mif                  ;
+; image_datac.mif                  ;
+; image_datad.mif                  ;
+; image_datae.mif                  ;
+; image_dataf.mif                  ;
+; image_datag.mif                  ;
+; image_datah.mif                  ;
+; image_datai.mif                  ;
+; image_dataj.mif                  ;
+; image_datak.mif                  ;
+; image_datal.mif                  ;
+; image_datam.mif                  ;
+; image_datan.mif                  ;
+; image_datao.mif                  ;
+; image_datap.mif                  ;
+; image_datar.mif                  ;
+; image_datas.mif                  ;
+; image_datat.mif                  ;
+; image_datau.mif                  ;
+; image_datav.mif                  ;
+; image_dataw.mif                  ;
+; image_datax.mif                  ;
+; image_datay.mif                  ;
+; image_dataz.mif                  ;
+; imem.cmp                         ;
+; imem.mif                         ;
+; imem.qip                         ;
+; imem.v                           ;
+; imem_inst.v                      ;
+; img_bars.mif                     ;
+; img_data.v                       ;
+; img_data_logo.mif                ;
+; img_dataB.qip                    ;
+; img_dataB.v                      ;
+; img_dataB_bb.v                   ;
+; img_dataC.qip                    ;
+; img_dataC.v                      ;
+; img_dataC_bb.v                   ;
+; img_dataD.qip                    ;
+; img_dataD.v                      ;
+; img_dataD_bb.v                   ;
+; img_dataE.qip                    ;
+; img_dataE.v                      ;
+; img_dataE_bb.v                   ;
+; img_dataF.qip                    ;
+; img_dataF.v                      ;
+; img_dataF_bb.v                   ;
+; img_dataG.qip                    ;
+; img_dataG.v                      ;
+; img_dataG_bb.v                   ;
+; img_dataH.qip                    ;
+; img_dataH.v                      ;
+; img_dataH_bb.v                   ;
+; img_dataI.qip                    ;
+; img_dataI.v                      ;
+; img_dataI_bb.v                   ;
+; img_dataJ.qip                    ;
+; img_dataJ.v                      ;
+; img_dataJ_bb.v                   ;
+; img_dataK.qip                    ;
+; img_dataK.v                      ;
+; img_dataK_bb.v                   ;
+; img_dataL.qip                    ;
+; img_dataL.v                      ;
+; img_dataL_bb.v                   ;
+; img_dataM.qip                    ;
+; img_dataM.v                      ;
+; img_dataM_bb.v                   ;
+; img_dataN.qip                    ;
+; img_dataN.v                      ;
+; img_dataN_bb.v                   ;
+; img_dataO.qip                    ;
+; img_dataO.v                      ;
+; img_dataO_bb.v                   ;
+; img_dataP.qip                    ;
+; img_dataP.v                      ;
+; img_dataP_bb.v                   ;
+; img_dataQ.qip                    ;
+; img_dataQ.v                      ;
+; img_dataQ_bb.v                   ;
+; img_dataR.qip                    ;
+; img_dataR.v                      ;
+; img_dataR_bb.v                   ;
+; img_dataS.qip                    ;
+; img_dataS.v                      ;
+; img_dataS_bb.v                   ;
+; img_dataT.qip                    ;
+; img_dataT.v                      ;
+; img_dataT_bb.v                   ;
+; img_dataU.qip                    ;
+; img_dataU.v                      ;
+; img_dataU_bb.v                   ;
+; img_dataV.qip                    ;
+; img_dataV.v                      ;
+; img_dataV_bb.v                   ;
+; img_dataW.qip                    ;
+; img_dataW.v                      ;
+; img_dataW_bb.v                   ;
+; img_dataX.qip                    ;
+; img_dataX.v                      ;
+; img_dataX_bb.v                   ;
+; img_dataY.qip                    ;
+; img_dataY.v                      ;
+; img_dataY_bb.v                   ;
+; img_dataZ.qip                    ;
+; img_dataZ.v                      ;
+; img_dataZ_bb.v                   ;
+; img_index.v                      ;
+; img_indexB.qip                   ;
+; img_indexB.v                     ;
+; img_indexB_bb.v                  ;
+; img_indexC.qip                   ;
+; img_indexC.v                     ;
+; img_indexC_bb.v                  ;
+; img_indexD.qip                   ;
+; img_indexD.v                     ;
+; img_indexD_bb.v                  ;
+; img_indexE.qip                   ;
+; img_indexE.v                     ;
+; img_indexE_bb.v                  ;
+; img_indexF.qip                   ;
+; img_indexF.v                     ;
+; img_indexF_bb.v                  ;
+; img_indexG.qip                   ;
+; img_indexG.v                     ;
+; img_indexG_bb.v                  ;
+; img_indexH.qip                   ;
+; img_indexH.v                     ;
+; img_indexH_bb.v                  ;
+; img_indexI.qip                   ;
+; img_indexI.v                     ;
+; img_indexI_bb.v                  ;
+; img_indexJ.qip                   ;
+; img_indexJ.v                     ;
+; img_indexJ_bb.v                  ;
+; img_indexK.qip                   ;
+; img_indexK.v                     ;
+; img_indexK_bb.v                  ;
+; img_indexL.qip                   ;
+; img_indexL.v                     ;
+; img_indexL_bb.v                  ;
+; img_indexM.qip                   ;
+; img_indexM.v                     ;
+; img_indexM_bb.v                  ;
+; img_indexN.qip                   ;
+; img_indexN.v                     ;
+; img_indexN_bb.v                  ;
+; img_indexO.qip                   ;
+; img_indexO.v                     ;
+; img_indexO_bb.v                  ;
+; img_indexP.qip                   ;
+; img_indexP.v                     ;
+; img_indexP_bb.v                  ;
+; img_indexQ.qip                   ;
+; img_indexQ.v                     ;
+; img_indexQ_bb.v                  ;
+; img_indexR.qip                   ;
+; img_indexR.v                     ;
+; img_indexR_bb.v                  ;
+; img_indexS.qip                   ;
+; img_indexS.v                     ;
+; img_indexS_bb.v                  ;
+; img_indexT.qip                   ;
+; img_indexT.v                     ;
+; img_indexT_bb.v                  ;
+; img_indexU.qip                   ;
+; img_indexU.v                     ;
+; img_indexU_bb.v                  ;
+; img_indexV.qip                   ;
+; img_indexV.v                     ;
+; img_indexV_bb.v                  ;
+; img_indexW.qip                   ;
+; img_indexW.v                     ;
+; img_indexW_bb.v                  ;
+; img_indexX.qip                   ;
+; img_indexX.v                     ;
+; img_indexX_bb.v                  ;
+; img_indexY.qip                   ;
+; img_indexY.v                     ;
+; img_indexY_bb.v                  ;
+; img_indexZ.qip                   ;
+; img_indexZ.v                     ;
+; img_indexZ_bb.v                  ;
+; index.mif                        ;
+; index_logo.mif                   ;
+; lab7_img_data.mif                ;
+; lab7_img_index.mif               ;
+; lcd.sv                           ;
+; output_files/Chain1.cdf          ;
+; pll.bsf                          ;
+; pll.cmp                          ;
+; pll.ppf                          ;
+; pll.qip                          ;
+; pll.v                            ;
+; processor.v                      ;
+; PS2_Controller.v                 ;
+; PS2_Interface.v                  ;
+; Reset_Delay.v                    ;
+; skeleton.qpf                     ;
+; skeleton.qsf                     ;
+; skeleton.v                       ;
+; skeleton_assignment_defaults.qdf ;
+; VGA_Audio_PLL.v                  ;
+; vga_controller.v                 ;
+; video_sync_generator.v           ;
++----------------------------------+
+
+

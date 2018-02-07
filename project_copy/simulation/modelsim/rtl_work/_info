@@ -1,0 +1,966 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/simulation/modelsim
+vAdder32
+Z1 !s110 1512721221
+!i10b 1
+!s100 ][SEP]d>OW@@011f[1R[T1
+IgQHoK=foT>7=05g_@R0d=1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1509822619
+8C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/alu/Adder32.v
+FC:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/alu/Adder32.v
+L0 4
+Z3 OV;L;10.4d;61
+r1
+!s85 0
+31
+Z4 !s108 1512721221.000000
+Z5 !s107 C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/mydmem.v|C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/common/changed_cycle.v|C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/timer/tim_counter.v|C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/timer/morse_rec.v|C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/multdiv/div_counter.v|C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/multdiv/aligner.v|C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/multdiv/shftdiv_debug.v|C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/multdiv/div_debug.v|C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/multdiv/counter.v|C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/common/decoder32.v|C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/multdiv/findc.v|C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/multdiv/shiftadder.v|C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/multdiv/reg32.v|C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/multdiv/multi.v|C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/multdiv/multdiv.v|C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/reg_file/isZero.v|C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/reg_file/equal5bits.v|C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/reg_file/dffe1.v|C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/reg_file/reg32bits.v|C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/reg_file/mux.v|C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/reg_file/decoder32bits.v|C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/reg_file/regfile.v|C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/paramd_reg/reg_n.v|C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/common/mydffe.v|C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/common/changed.v|C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/common/SRA32.v|C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/common/SLL32.v|C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/common/Comparer0.v|C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/common/Comparer.v|C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/common/AND32.v|C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/common/OR32.v|C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/alu/OPdecoder.v|C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/common/CLA8bit.v|C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/alu/Adder32.v|C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/alu/Subber32.v|C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/alu/alu.v|C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/processor.v|
+Z6 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy|C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/processor.v|
+!i113 1
+Z7 o-vlog01compat -work work
+Z8 !s92 -vlog01compat -work work +incdir+C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy
+n@adder32
+valigner
+R1
+!i10b 1
+!s100 U7P7_h@464k_2U^MI;_^71
+In3ko1kjURD91_aN]gB0LE2
+R2
+R0
+w1510019739
+8C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/multdiv/aligner.v
+FC:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/multdiv/aligner.v
+Z9 L0 12
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+valu
+R1
+!i10b 1
+!s100 QfXQ[SN55=N_Ja4g1JCDH2
+I8z;[S=RCnNnfgIZj[UJ^o0
+R2
+R0
+w1509718257
+8C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/alu/alu.v
+FC:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/alu/alu.v
+R9
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vAND32
+R1
+!i10b 1
+!s100 4PFR_a@`oiV4?VBR;[I@`2
+Ildh<[D@ddOE>HV4BD0ES`0
+R2
+R0
+w1506390613
+8C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/common/AND32.v
+FC:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/common/AND32.v
+L0 4
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+n@a@n@d32
+vchanged
+R1
+!i10b 1
+!s100 c=hb?l4Ume?LMHXMI9L2R0
+I[MG]5[8:U@H:DL[QN_6j_0
+R2
+R0
+w1510201241
+8C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/common/changed.v
+FC:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/common/changed.v
+L0 8
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vchanged_cycle
+R1
+!i10b 1
+!s100 zaI6A@E?h@1c][FeW[23F2
+ILf=6ad4lc;EnVVA67D61z1
+R2
+R0
+w1512277071
+8C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/common/changed_cycle.v
+FC:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/common/changed_cycle.v
+L0 9
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vCLA8bit
+R1
+!i10b 1
+!s100 aInDf`FbCzz>M4CP5<HK:1
+I0DAR]FRPN396>bKVaI;W<0
+R2
+R0
+w1509822749
+8C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/common/CLA8bit.v
+FC:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/common/CLA8bit.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+n@c@l@a8bit
+vComparer
+R1
+!i10b 1
+!s100 ^Hz^4e`[UzN]z_e<F1ZK@0
+I^BT41:I@Vz0LIzBm_eOI03
+R2
+R0
+w1509692155
+8C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/common/Comparer.v
+FC:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/common/Comparer.v
+L0 5
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+n@comparer
+vComparer0
+R1
+!i10b 1
+!s100 GKbVJHWlhC7]^oF`^;knb0
+I_5zF>bRCJC2zhAm`zVgZ51
+R2
+R0
+w1509822782
+8C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/common/Comparer0.v
+FC:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/common/Comparer0.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+n@comparer0
+vcounter
+R1
+!i10b 1
+!s100 Ld:ec?dW@oKl=V_`A_c][0
+I;]j]>PHDW>Y2>29aFW4e^2
+R2
+R0
+w1510019685
+8C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/multdiv/counter.v
+FC:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/multdiv/counter.v
+L0 6
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vdecoder32
+R1
+!i10b 1
+!s100 ?Algk9RFbM_Tj]edLfC4A2
+ILTzNDGI:`:Yn^S>mIF?2h2
+R2
+R0
+w1507741995
+8C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/common/decoder32.v
+FC:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/common/decoder32.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vdecoder32bits
+R1
+!i10b 1
+!s100 @jLVg]^VE[JVk32PlMOAJ1
+I>H?KNBOXnAMZF13QY`Ig11
+R2
+R0
+w1512267647
+8C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/reg_file/decoder32bits.v
+FC:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/reg_file/decoder32bits.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vdffe1
+R1
+!i10b 1
+!s100 7_@4b:fT]XSnW?IMYe4Uc1
+I[gT6[B1YlZXRI3]Cjf:>@1
+R2
+R0
+w1508206553
+8C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/reg_file/dffe1.v
+FC:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/reg_file/dffe1.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vdiv
+R1
+!i10b 1
+!s100 Piml4];I8h2Yain8ehV5d3
+IbKHWO]fO1W6`m7W1i9N7o2
+R2
+R0
+w1510020067
+8C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/multdiv/div_debug.v
+FC:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/multdiv/div_debug.v
+R9
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vdiv_counter
+R1
+!i10b 1
+!s100 cL@Y=ilVN=fmEnI76=lPL3
+ITUBKjC0kSgEg@GITDf5I;2
+R2
+R0
+w1510019648
+8C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/multdiv/div_counter.v
+FC:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/multdiv/div_counter.v
+L0 6
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vdx_latch
+R1
+!i10b 1
+!s100 Ui:58bS7A=]6C;M:>91TW0
+IID]8=gH5mWL_U2g@XP1Z:1
+R2
+R0
+Z10 w1512721179
+Z11 8C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/processor.v
+Z12 FC:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/processor.v
+L0 541
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vequal5bits
+R1
+!i10b 1
+!s100 J>Pn3;j;M=QDEL>kD?4DX0
+IX]z4mXHbJ>BXecB9EB5@e0
+R2
+R0
+w1510090079
+8C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/reg_file/equal5bits.v
+FC:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/reg_file/equal5bits.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vfd_latch
+R1
+!i10b 1
+!s100 z>GgY6hge`K2YVMoOE]<V3
+I[0R;>f;zmH1bnCdaPz5e00
+R2
+R0
+R10
+R11
+R12
+L0 526
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vfindc
+R1
+!i10b 1
+!s100 oCWRO4ElAlFETDH@`aXY70
+IE>klOAc=8fC]6EMfUW]O60
+R2
+R0
+w1510019777
+8C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/multdiv/findc.v
+FC:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/multdiv/findc.v
+L0 5
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vimem
+R1
+!i10b 1
+!s100 VTi^BmoFfCVbn3IPNANOh1
+IC]5W8Zke7glM_>5<I[G162
+R2
+R0
+w1512605946
+8C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/imem.v
+FC:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/imem.v
+L0 40
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/imem.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy|C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/imem.v|
+!i113 1
+R7
+R8
+visZero
+R1
+!i10b 1
+!s100 Of@b2B1UbIiO7XhQZZCg:3
+IaA_D1Z5RO:fKP^b2iOoHg1
+R2
+R0
+w1510092234
+8C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/reg_file/isZero.v
+FC:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/reg_file/isZero.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+nis@zero
+vmorse_rec
+R1
+!i10b 1
+!s100 mM8NZFGmjz6E4N;dMA`D71
+I6h^K]a220?^[aDzARhBNX3
+R2
+R0
+w1512720347
+8C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/timer/morse_rec.v
+FC:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/timer/morse_rec.v
+L0 7
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vmultdiv
+R1
+!i10b 1
+!s100 ROJ[IUM5oCDQJ]<ILKR1N0
+I2P`68iG@lLi5Yl>fPPf@z2
+R2
+R0
+w1510199491
+8C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/multdiv/multdiv.v
+FC:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/multdiv/multdiv.v
+L0 8
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vmulti
+R1
+!i10b 1
+!s100 =CPl6XBM9<HlC8MXRaX1O1
+IS>l;8g>WEVPU^DBjVQBz12
+R2
+R0
+w1510019899
+8C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/multdiv/multi.v
+FC:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/multdiv/multi.v
+R9
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vmux
+R1
+!i10b 1
+!s100 UE`PKP?9`fM^nddD4JcC^1
+IGgnBO1L>GA8Qi8C4^<<8k0
+R2
+R0
+w1512271825
+8C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/reg_file/mux.v
+FC:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/reg_file/mux.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vmw_latch
+R1
+!i10b 1
+!s100 bcCAHgRJ1>0MSgfdeXC`k3
+I17=5^3RaE0>cIXbD0:OVb1
+R2
+R0
+R10
+R11
+R12
+L0 588
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vmydffe
+R1
+!i10b 1
+!s100 >b^MmGW;Mn1gDlCQ7ndEF2
+IWW35`?anP2MV[=2o1Q1za2
+R2
+R0
+w1508172460
+8C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/common/mydffe.v
+FC:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/common/mydffe.v
+L0 5
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vmydmem_mod
+R1
+!i10b 1
+!s100 OMZ0=3e<z^Z51XQ6<Bg<40
+IlnN56G]bGN[:QVUYZJKU60
+R2
+R0
+w1512529940
+8C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/mydmem.v
+FC:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/mydmem.v
+L0 4
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vop_decoder
+R1
+!i10b 1
+!s100 ?5<:9HLZHTaWT_=_J0Z=L1
+I;TgXk_dHGM]Y]>Sl0lZjB2
+R2
+R0
+R10
+R11
+R12
+L0 484
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vOPdecoder
+R1
+!i10b 1
+!s100 9iF>;OR58bKN0lz0MzO_K2
+Ieg]4=YXXbOI^=dEdXDTLK0
+R2
+R0
+w1509822630
+8C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/alu/OPdecoder.v
+FC:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/alu/OPdecoder.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+n@o@pdecoder
+vOR32
+R1
+!i10b 1
+!s100 V:EhZjN=fHbF3Ji;[Tj<72
+I:<H;eo[KK_O]BnG8^6R_00
+R2
+R0
+w1506349288
+8C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/common/OR32.v
+FC:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/common/OR32.v
+L0 4
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+n@o@r32
+vpc_reg
+R1
+!i10b 1
+!s100 Qh;6l9AaM3I]P=z5L@f=R0
+I<Dn=5?FbFdVaGJPJ^>i3P1
+R2
+R0
+R10
+R11
+R12
+L0 476
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vprocessor
+R1
+!i10b 1
+!s100 HYMV_]nigCo@PkhGJFSJP2
+Im6ggcN53A9aY>g``iiB^R0
+R2
+R0
+R10
+R11
+R12
+L0 43
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vprocessor_tb
+R1
+!i10b 1
+!s100 V3[Zk0[PM^A@l:4n;ETS13
+I;0[dRKl@O:oY<=VgmJ7Lk0
+R2
+R0
+w1512720597
+8C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/processor_tb.v
+FC:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/processor_tb.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/processor_tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy|C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/processor_tb.v|
+!i113 1
+R7
+R8
+vreg32
+R1
+!i10b 1
+!s100 KmgZ]`z4dm:5Q8GABA`H03
+I:5aJJYz@_BeXIFlT5@YUi2
+R2
+R0
+w1510019795
+8C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/multdiv/reg32.v
+FC:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/multdiv/reg32.v
+L0 6
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vreg32bits
+R1
+!i10b 1
+!s100 AhCO7VV5ANLQLKJVm`am`2
+Ie>Lc2PdC]Ln3T@_cY1Xab2
+R2
+R0
+w1512267676
+8C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/reg_file/reg32bits.v
+FC:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/reg_file/reg32bits.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vreg_n
+R1
+!i10b 1
+!s100 `X6N2_dI[A<b@8e`<217W3
+IL;6GPi26C@R@0SzYmJh[90
+R2
+R0
+w1509690185
+8C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/paramd_reg/reg_n.v
+FC:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/paramd_reg/reg_n.v
+Z13 L0 11
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vregfile
+R1
+!i10b 1
+!s100 F?d^I]fn3e>[2PSL5CP_81
+IFL]45PPXmS>REzbU_`18h3
+R2
+R0
+w1512595175
+8C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/reg_file/regfile.v
+FC:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/reg_file/regfile.v
+R13
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vshiftadder
+R1
+!i10b 1
+!s100 zf`lDmC6:@7V55@=Oh3_10
+Ie2_^PYmTXjM`G0lLd91]Y1
+R2
+R0
+w1510020023
+8C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/multdiv/shiftadder.v
+FC:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/multdiv/shiftadder.v
+L0 13
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vshiftdiver
+R1
+!i10b 1
+!s100 Nmn8og5g[HIJmkGLHZDbo1
+I1<_=o?0cVMVbDI553a9S30
+R2
+R0
+w1510019973
+8C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/multdiv/shftdiv_debug.v
+FC:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/multdiv/shftdiv_debug.v
+L0 16
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vSLL32
+R1
+!i10b 1
+!s100 aBRK>A]_6B4[zknY<iLR51
+IT9N;DS`1daEgQh@gOA8ih2
+R2
+R0
+w1506394535
+8C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/common/SLL32.v
+FC:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/common/SLL32.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+n@s@l@l32
+vSRA32
+R1
+!i10b 1
+!s100 =bm4;lGSki:KE>8;:5VC]0
+IORagzdfEUgMNbB2?fMT^i0
+R2
+R0
+w1506396077
+8C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/common/SRA32.v
+FC:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/common/SRA32.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+n@s@r@a32
+vSubber32
+R1
+!i10b 1
+!s100 lcdCbIKTYBYOmelF^AJP41
+IR42G[dUC2bJ5oYWlo:i2>0
+R2
+R0
+w1509822626
+8C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/alu/Subber32.v
+FC:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/alu/Subber32.v
+L0 4
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+n@subber32
+vtim_counter
+R1
+!i10b 1
+!s100 M9k8zW7iJeW7]^9RV2R:K1
+IUEgH7<NX>V?7g1mDlWH?d3
+R2
+R0
+w1511600800
+8C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/timer/tim_counter.v
+FC:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/timer/tim_counter.v
+L0 7
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vxm_latch
+R1
+!i10b 1
+!s100 Pn7Y67>F0=Q28D=nl2DZR2
+I2D>g?RF>YSEJ?knC3AIm12
+R2
+R0
+R10
+R11
+R12
+L0 568
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8

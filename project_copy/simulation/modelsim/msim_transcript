@@ -1,0 +1,278 @@
+# Reading C:/altera_lite/16.0/modelsim_ase/tcl/vsim/pref.tcl
+# ERROR: No extended dataflow license exists
+# do yao_processor_run_msim_rtl_verilog.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim ALTERA vmap 10.4d Lib Mapping Utility 2015.12 Dec 30 2015
+# vmap work rtl_work 
+# Copying C:/altera_lite/16.0/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy {C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/mydmem.v}
+# Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+# Start time: 03:20:20 on Dec 08,2017
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy" C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/mydmem.v 
+# -- Compiling module mydmem_mod
+# 
+# Top level modules:
+# 	mydmem_mod
+# End time: 03:20:21 on Dec 08,2017, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy {C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/imem.v}
+# Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+# Start time: 03:20:21 on Dec 08,2017
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy" C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/imem.v 
+# -- Compiling module imem
+# 
+# Top level modules:
+# 	imem
+# End time: 03:20:21 on Dec 08,2017, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy {C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/processor.v}
+# Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+# Start time: 03:20:21 on Dec 08,2017
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy" C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/processor.v 
+# -- Compiling module CLA8bit
+# -- Compiling module Adder32
+# -- Compiling module Subber32
+# -- Compiling module OPdecoder
+# -- Compiling module OR32
+# -- Compiling module AND32
+# -- Compiling module Comparer0
+# -- Compiling module Comparer
+# -- Compiling module SLL32
+# -- Compiling module SRA32
+# -- Compiling module alu
+# -- Compiling module mydffe
+# -- Compiling module changed
+# -- Compiling module reg_n
+# -- Compiling module decoder32bits
+# -- Compiling module mux
+# -- Compiling module reg32bits
+# -- Compiling module dffe1
+# -- Compiling module equal5bits
+# -- Compiling module isZero
+# -- Compiling module regfile
+# -- Compiling module reg32
+# -- Compiling module decoder32
+# -- Compiling module findc
+# -- Compiling module shiftadder
+# -- Compiling module counter
+# -- Compiling module aligner
+# -- Compiling module shiftdiver
+# -- Compiling module div_counter
+# -- Compiling module div
+# -- Compiling module multi
+# -- Compiling module multdiv
+# -- Compiling module tim_counter
+# -- Compiling module morse_rec
+# -- Compiling module changed_cycle
+# -- Compiling module mydmem_mod
+# -- Compiling module processor
+# ** Warning: C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/processor.v(380): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+# 
+# -- Compiling module pc_reg
+# -- Compiling module op_decoder
+# -- Compiling module fd_latch
+# -- Compiling module dx_latch
+# -- Compiling module xm_latch
+# -- Compiling module mw_latch
+# 
+# Top level modules:
+# 	processor
+# End time: 03:20:21 on Dec 08,2017, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 1
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy {C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/processor_tb.v}
+# Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+# Start time: 03:20:21 on Dec 08,2017
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy" C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/processor_tb.v 
+# -- Compiling module processor_tb
+# 
+# Top level modules:
+# 	processor_tb
+# End time: 03:20:21 on Dec 08,2017, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs="+acc"  processor_tb
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs=""+acc"" processor_tb 
+# Start time: 03:20:21 on Dec 08,2017
+# Loading work.processor_tb
+# Loading work.processor
+# Loading work.pc_reg
+# Loading work.reg_n
+# Loading work.imem
+# Loading altera_mf_ver.altsyncram
+# Loading work.morse_rec
+# Loading work.tim_counter
+# Loading work.changed_cycle
+# Loading work.op_decoder
+# Loading work.Adder32
+# Loading work.CLA8bit
+# Loading work.fd_latch
+# Loading work.regfile
+# Loading work.decoder32bits
+# Loading work.reg32bits
+# Loading work.isZero
+# Loading work.equal5bits
+# Loading work.mux
+# Loading work.dx_latch
+# Loading work.alu
+# Loading work.Comparer
+# Loading work.Subber32
+# Loading work.Comparer0
+# Loading work.OPdecoder
+# Loading work.OR32
+# Loading work.AND32
+# Loading work.SLL32
+# Loading work.SRA32
+# Loading work.changed
+# Loading work.mydffe
+# Loading work.multdiv
+# Loading work.multi
+# Loading work.div
+# Loading work.reg32
+# Loading work.aligner
+# Loading work.div_counter
+# Loading work.shiftdiver
+# Loading work.decoder32
+# Loading work.shiftadder
+# Loading work.findc
+# Loading work.counter
+# Loading work.xm_latch
+# Loading work.mydmem_mod
+# Loading work.mw_latch
+# Loading altera_mf_ver.altsyncram_body
+# Loading altera_mf_ver.ALTERA_DEVICE_FAMILIES
+# Loading altera_mf_ver.ALTERA_MF_MEMORY_INITIALIZATION
+# Loading work.dffe1
+# 
+# add wave *
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run -all
+# << Test processor >>
+# time=  0, decoded letter is =
+# time=13190, decoded letter is =
+# time=13210, decoded letter is =
+# time=13310, decoded letter is =
+# time=13330, decoded letter is =
+# time=13350, decoded letter is =
+# time=13370, decoded letter is =d
+# time=13390, decoded letter is =¸
+# time=13410, decoded letter is =p
+# time=13430, decoded letter is =
+# time=13450, decoded letter is =y
+# time=13470, decoded letter is =
+# time=13510, decoded letter is =
+# time=13530, decoded letter is =
+# time=13550, decoded letter is =Ý
+# time=13570, decoded letter is =1
+# time=13590, decoded letter is =
+# time=13630, decoded letter is =
+# time=13650, decoded letter is =
+# time=13670, decoded letter is =E
+# time=13690, decoded letter is =
+# time=13710, decoded letter is =y
+# time=13730, decoded letter is =
+# time=13810, decoded letter is =Ý
+# time=13830, decoded letter is =1
+# time=13850, decoded letter is =
+# time=13930, decoded letter is =I
+# time=13950, decoded letter is =
+# time=13970, decoded letter is =y
+# time=13990, decoded letter is =
+# time=14030, decoded letter is =
+# time=14050, decoded letter is =
+# time=14070, decoded letter is =Ý
+# time=14090, decoded letter is =1
+# time=14110, decoded letter is =
+# time=14150, decoded letter is =
+# time=14170, decoded letter is =
+# time=14190, decoded letter is =S
+# time=14210, decoded letter is =
+# time=14230, decoded letter is =y
+# time=14250, decoded letter is =
+# time=14290, decoded letter is =
+# time=14310, decoded letter is =
+# time=14350, decoded letter is =Ý
+# time=14370, decoded letter is =1
+# time=14390, decoded letter is =
+# time=14430, decoded letter is =
+# time=14450, decoded letter is =
+# time=14470, decoded letter is =H
+# time=14490, decoded letter is =
+# time=14510, decoded letter is =y
+# time=14530, decoded letter is =
+# time=14610, decoded letter is =Ý
+# time=14630, decoded letter is =1
+# time=14650, decoded letter is =
+# time=14730, decoded letter is =5
+# time=14750, decoded letter is =
+# time=14770, decoded letter is =
+# time=14890, decoded letter is =5
+# time=14910, decoded letter is =
+# time=14950, decoded letter is =5
+# time=14970, decoded letter is =
+# time=15010, decoded letter is =5
+# time=15030, decoded letter is =
+# time=15070, decoded letter is =5
+# time=15090, decoded letter is =
+# time=15130, decoded letter is =5
+# time=15150, decoded letter is =
+# time=15190, decoded letter is =5
+# time=15210, decoded letter is =
+# time=15250, decoded letter is =5
+# time=15270, decoded letter is =
+# time=15310, decoded letter is =5
+# time=15330, decoded letter is =
+# time=15370, decoded letter is =5
+# time=15390, decoded letter is =
+# time=15430, decoded letter is =5
+# time=15450, decoded letter is =
+# time=15490, decoded letter is =5
+# time=15510, decoded letter is =
+# time=15550, decoded letter is =5
+# time=15570, decoded letter is =
+# time=15610, decoded letter is =5
+# time=15630, decoded letter is =
+# time=15670, decoded letter is =5
+# time=15690, decoded letter is =
+# time=15730, decoded letter is =5
+# time=15750, decoded letter is =
+# time=15790, decoded letter is =5
+# time=15810, decoded letter is =
+# time=15850, decoded letter is =5
+# time=15870, decoded letter is =
+# time=15910, decoded letter is =5
+# time=15930, decoded letter is =
+# time=15970, decoded letter is =5
+# time=15990, decoded letter is =
+# time=16030, decoded letter is =5
+# time=16050, decoded letter is =
+# time=16090, decoded letter is =5
+# time=16110, decoded letter is =
+# time=16150, decoded letter is =5
+# time=16170, decoded letter is =
+# time=16210, decoded letter is =5
+# time=16230, decoded letter is =
+# time=16270, decoded letter is =5
+# time=16290, decoded letter is =
+# time=16330, decoded letter is =5
+# time=16350, decoded letter is =
+# time=16390, decoded letter is =5
+# time=16410, decoded letter is =
+# time=16450, decoded letter is =5
+# time=16470, decoded letter is =
+# time=16510, decoded letter is =5
+# time=16530, decoded letter is =
+# ** Note: $stop    : C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/processor_tb.v(83)
+#    Time: 16531 ns  Iteration: 0  Instance: /processor_tb
+# Break in Module processor_tb at C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/processor_tb.v line 83
+# End time: 03:21:17 on Dec 08,2017, Elapsed time: 0:00:56
+# Errors: 0, Warnings: 0

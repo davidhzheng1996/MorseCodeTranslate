@@ -1,0 +1,44 @@
+`timescale 1 ns/ 100 ps
+module processor_tb();
+	
+	//inputs to or gate are wire types.
+	reg clock, reset, morse;
+	wire[31:0] data_in, data_address, pcout, bsuc,result;
+	wire msgend;
+//	wire[31:0] multA, multB;
+//	wire[31:0] aluout, wdata1, multout;
+//	wire [31:0] dmemcheck, regval;
+//	wire[31:0] xdataB, pcout, /*executepctest,*/ xdataA;
+//	//wire branchsuc, bnetest;
+//	wire multdetect, multreadynow;
+//	//wire testex, setxsuc;
+//	wire [31:0] finstruction;
+	
+	processor my_processor(clock, reset, morse, data_in, data_address, pcout, bsuc, msgend);
+	assign result = my_processor.exe_result;
+	initial 
+//	
+	begin
+        $display("<< Test processor >>");	
+        $monitor("time=%3d, alu/exe_result=%3d",$time,result);	  		  
+        clock = 1'b0; 
+		  morse = 1'b0; 
+		  reset = 1'b1;
+		  #10
+		  reset = 1'b0;
+		  #100
+		  morse = 1'b1;
+		  #1200
+		  morse = 1'b0;
+		  #400
+		  
+
+        $stop;
+    end
+
+	 
+	 // Clock generator
+    always
+    #10     clock = ~clock;
+	
+endmodule

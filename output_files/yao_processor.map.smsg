@@ -1,0 +1,16 @@
+Info (10281): Verilog HDL Declaration information at CLA8bit.v(11): object "p" differs only in case from object "P" in the same scope File: C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/common/CLA8bit.v Line: 11
+Info (10281): Verilog HDL Declaration information at CLA8bit.v(11): object "g" differs only in case from object "G" in the same scope File: C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/common/CLA8bit.v Line: 11
+Warning (10273): Verilog HDL warning at alu.v(36): extended using "x" or "z" File: C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/alu/alu.v Line: 36
+Warning (10273): Verilog HDL warning at alu.v(37): extended using "x" or "z" File: C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/alu/alu.v Line: 37
+Warning (10273): Verilog HDL warning at alu.v(38): extended using "x" or "z" File: C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/alu/alu.v Line: 38
+Warning (10273): Verilog HDL warning at alu.v(39): extended using "x" or "z" File: C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/alu/alu.v Line: 39
+Warning (10273): Verilog HDL warning at alu.v(40): extended using "x" or "z" File: C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/alu/alu.v Line: 40
+Warning (10273): Verilog HDL warning at alu.v(41): extended using "x" or "z" File: C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/alu/alu.v Line: 41
+Warning (10268): Verilog HDL information at mydffe.v(21): always construct contains both blocking and non-blocking assignments File: C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/common/mydffe.v Line: 21
+Warning (10268): Verilog HDL information at dffe1.v(16): always construct contains both blocking and non-blocking assignments File: C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/reg_file/dffe1.v Line: 16
+Warning (10273): Verilog HDL warning at div_counter.v(46): extended using "x" or "z" File: C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/multdiv/div_counter.v Line: 46
+Warning (10273): Verilog HDL warning at multdiv.v(46): extended using "x" or "z" File: C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/multdiv/multdiv.v Line: 46
+Warning (10273): Verilog HDL warning at multdiv.v(47): extended using "x" or "z" File: C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/multdiv/multdiv.v Line: 47
+Warning (10268): Verilog HDL information at morse_rec.v(74): always construct contains both blocking and non-blocking assignments File: C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/timer/morse_rec.v Line: 74
+Warning (10273): Verilog HDL warning at processor.v(263): extended using "x" or "z" File: C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/processor.v Line: 263
+Warning (10273): Verilog HDL warning at processor.v(264): extended using "x" or "z" File: C:/Users/Yao/Documents/GitHub/final-project-morse-code-translator/project_copy/processor.v Line: 264

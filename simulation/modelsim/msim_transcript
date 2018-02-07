@@ -1,0 +1,383 @@
+# Reading C:/intelFPGA/17.0/modelsim_ase/tcl/vsim/pref.tcl
+# ERROR: No extended dataflow license exists
+# do skeleton_run_msim_rtl_verilog.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 10.5b Lib Mapping Utility 2016.10 Oct  5 2016
+# vmap work rtl_work 
+# Copying C:/intelFPGA/17.0/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/David/Documents/Fall\ 2017/ECE\ 350/Final\ Project/lab7/lab7_restored {C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/VGA_Audio_PLL.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:14:42 on Dec 08,2017
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored" C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/VGA_Audio_PLL.v 
+# -- Compiling module VGA_Audio_PLL
+# 
+# Top level modules:
+# 	VGA_Audio_PLL
+# End time: 21:14:42 on Dec 08,2017, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/David/Documents/Fall\ 2017/ECE\ 350/Final\ Project/lab7/lab7_restored {C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/Reset_Delay.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:14:42 on Dec 08,2017
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored" C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/Reset_Delay.v 
+# -- Compiling module Reset_Delay
+# 
+# Top level modules:
+# 	Reset_Delay
+# End time: 21:14:42 on Dec 08,2017, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/David/Documents/Fall\ 2017/ECE\ 350/Final\ Project/lab7/lab7_restored {C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/skeleton.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:14:42 on Dec 08,2017
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored" C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/skeleton.v 
+# -- Compiling module skeleton
+# 
+# Top level modules:
+# 	skeleton
+# End time: 21:14:42 on Dec 08,2017, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/David/Documents/Fall\ 2017/ECE\ 350/Final\ Project/lab7/lab7_restored {C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/PS2_Interface.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:14:42 on Dec 08,2017
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored" C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/PS2_Interface.v 
+# -- Compiling module PS2_Interface
+# 
+# Top level modules:
+# 	PS2_Interface
+# End time: 21:14:42 on Dec 08,2017, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/David/Documents/Fall\ 2017/ECE\ 350/Final\ Project/lab7/lab7_restored {C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/PS2_Controller.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:14:43 on Dec 08,2017
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored" C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/PS2_Controller.v 
+# -- Compiling module PS2_Controller
+# 
+# Top level modules:
+# 	PS2_Controller
+# End time: 21:14:43 on Dec 08,2017, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/David/Documents/Fall\ 2017/ECE\ 350/Final\ Project/lab7/lab7_restored {C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/pll.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:14:43 on Dec 08,2017
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored" C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/pll.v 
+# -- Compiling module pll
+# 
+# Top level modules:
+# 	pll
+# End time: 21:14:43 on Dec 08,2017, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/David/Documents/Fall\ 2017/ECE\ 350/Final\ Project/lab7/lab7_restored {C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/imem.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:14:43 on Dec 08,2017
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored" C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/imem.v 
+# -- Compiling module imem
+# 
+# Top level modules:
+# 	imem
+# End time: 21:14:43 on Dec 08,2017, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/David/Documents/Fall\ 2017/ECE\ 350/Final\ Project/lab7/lab7_restored {C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/Hexadecimal_To_Seven_Segment.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:14:43 on Dec 08,2017
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored" C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/Hexadecimal_To_Seven_Segment.v 
+# -- Compiling module Hexadecimal_To_Seven_Segment
+# 
+# Top level modules:
+# 	Hexadecimal_To_Seven_Segment
+# End time: 21:14:43 on Dec 08,2017, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/David/Documents/Fall\ 2017/ECE\ 350/Final\ Project/lab7/lab7_restored {C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/Altera_UP_PS2_Data_In.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:14:43 on Dec 08,2017
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored" C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/Altera_UP_PS2_Data_In.v 
+# -- Compiling module Altera_UP_PS2_Data_In
+# 
+# Top level modules:
+# 	Altera_UP_PS2_Data_In
+# End time: 21:14:44 on Dec 08,2017, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/David/Documents/Fall\ 2017/ECE\ 350/Final\ Project/lab7/lab7_restored {C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/Altera_UP_PS2_Command_Out.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:14:44 on Dec 08,2017
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored" C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/Altera_UP_PS2_Command_Out.v 
+# -- Compiling module Altera_UP_PS2_Command_Out
+# 
+# Top level modules:
+# 	Altera_UP_PS2_Command_Out
+# End time: 21:14:44 on Dec 08,2017, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/David/Documents/Fall\ 2017/ECE\ 350/Final\ Project/lab7/lab7_restored {C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/vga_controller.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:14:44 on Dec 08,2017
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored" C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/vga_controller.v 
+# -- Compiling module vga_controller
+# 
+# Top level modules:
+# 	vga_controller
+# End time: 21:14:44 on Dec 08,2017, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/David/Documents/Fall\ 2017/ECE\ 350/Final\ Project/lab7/lab7_restored {C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/video_sync_generator.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:14:44 on Dec 08,2017
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored" C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/video_sync_generator.v 
+# -- Compiling module video_sync_generator
+# 
+# Top level modules:
+# 	video_sync_generator
+# End time: 21:14:44 on Dec 08,2017, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/David/Documents/Fall\ 2017/ECE\ 350/Final\ Project/lab7/lab7_restored {C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/img_index.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:14:44 on Dec 08,2017
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored" C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/img_index.v 
+# -- Compiling module img_index
+# 
+# Top level modules:
+# 	img_index
+# End time: 21:14:45 on Dec 08,2017, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/David/Documents/Fall\ 2017/ECE\ 350/Final\ Project/lab7/lab7_restored {C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/img_data.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:14:45 on Dec 08,2017
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored" C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/img_data.v 
+# -- Compiling module img_data
+# 
+# Top level modules:
+# 	img_data
+# End time: 21:14:45 on Dec 08,2017, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/David/Documents/Fall\ 2017/ECE\ 350/Final\ Project/lab7/lab7_restored {C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/ascii_to_seven_seg.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:14:45 on Dec 08,2017
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored" C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/ascii_to_seven_seg.v 
+# -- Compiling module ascii_to_seven_seg
+# 
+# Top level modules:
+# 	ascii_to_seven_seg
+# End time: 21:14:45 on Dec 08,2017, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/David/Documents/Fall\ 2017/ECE\ 350/Final\ Project/lab7/lab7_restored/db {C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/db/pll_altpll.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:14:45 on Dec 08,2017
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/db" C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/db/pll_altpll.v 
+# -- Compiling module pll_altpll
+# 
+# Top level modules:
+# 	pll_altpll
+# End time: 21:14:45 on Dec 08,2017, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/David/Documents/Fall\ 2017/ECE\ 350/Final\ Project/lab7/lab7_restored {C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/processor.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:14:45 on Dec 08,2017
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored" C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/processor.v 
+# -- Compiling module CLA8bit
+# -- Compiling module Adder32
+# -- Compiling module Subber32
+# -- Compiling module OPdecoder
+# -- Compiling module OR32
+# -- Compiling module AND32
+# -- Compiling module Comparer0
+# -- Compiling module Comparer
+# -- Compiling module SLL32
+# -- Compiling module SRA32
+# -- Compiling module alu
+# -- Compiling module mydffe
+# -- Compiling module changed
+# -- Compiling module reg_n
+# -- Compiling module decoder32bits
+# -- Compiling module mux
+# -- Compiling module reg32bits
+# -- Compiling module dffe1
+# -- Compiling module equal5bits
+# -- Compiling module isZero
+# -- Compiling module regfile
+# -- Compiling module reg32
+# -- Compiling module decoder32
+# -- Compiling module findc
+# -- Compiling module shiftadder
+# -- Compiling module counter
+# -- Compiling module aligner
+# -- Compiling module shiftdiver
+# -- Compiling module div_counter
+# -- Compiling module div
+# -- Compiling module multi
+# -- Compiling module multdiv
+# -- Compiling module tim_counter
+# -- Compiling module morse_rec
+# -- Compiling module changed_cycle
+# -- Compiling module mydmem_mod
+# -- Compiling module processor
+# ** Warning: C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/processor.v(381): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+# -- Compiling module pc_reg
+# -- Compiling module op_decoder
+# -- Compiling module fd_latch
+# -- Compiling module dx_latch
+# -- Compiling module xm_latch
+# -- Compiling module mw_latch
+# 
+# Top level modules:
+# 	processor
+# End time: 21:14:46 on Dec 08,2017, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 1
+# vlog -sv -work work +incdir+C:/Users/David/Documents/Fall\ 2017/ECE\ 350/Final\ Project/lab7/lab7_restored {C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/lcd.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:14:46 on Dec 08,2017
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored" C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/lcd.sv 
+# -- Compiling module lcd
+# 
+# Top level modules:
+# 	lcd
+# End time: 21:14:46 on Dec 08,2017, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/David/Documents/Fall\ 2017/ECE\ 350/Final\ Project/lab7/lab7_restored {C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/skeleton_tb.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:14:46 on Dec 08,2017
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored" C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/skeleton_tb.v 
+# -- Compiling module skeleton_tb
+# 
+# Top level modules:
+# 	skeleton_tb
+# End time: 21:14:46 on Dec 08,2017, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs="+acc"  skeleton_tb
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs=""+acc"" skeleton_tb 
+# Start time: 21:14:47 on Dec 08,2017
+# Loading work.skeleton_tb
+# Loading work.skeleton
+# Loading work.pll
+# Loading altera_mf_ver.altpll
+# Loading altera_mf_ver.ALTERA_DEVICE_FAMILIES
+# Loading altera_mf_ver.pll_iobuf
+# Loading work.processor
+# Loading work.pc_reg
+# Loading work.reg_n
+# Loading work.imem
+# Loading altera_mf_ver.altsyncram
+# Loading work.morse_rec
+# Loading work.tim_counter
+# Loading work.changed_cycle
+# Loading work.op_decoder
+# Loading work.Adder32
+# Loading work.CLA8bit
+# Loading work.fd_latch
+# Loading work.regfile
+# Loading work.decoder32bits
+# Loading work.reg32bits
+# Loading work.isZero
+# Loading work.equal5bits
+# Loading work.mux
+# Loading work.dx_latch
+# Loading work.alu
+# Loading work.Comparer
+# Loading work.Subber32
+# Loading work.Comparer0
+# Loading work.OPdecoder
+# Loading work.OR32
+# Loading work.AND32
+# Loading work.SLL32
+# Loading work.SRA32
+# Loading work.changed
+# Loading work.mydffe
+# Loading work.multdiv
+# Loading work.multi
+# Loading work.div
+# Loading work.reg32
+# Loading work.aligner
+# Loading work.div_counter
+# Loading work.shiftdiver
+# Loading work.decoder32
+# Loading work.shiftadder
+# Loading work.findc
+# Loading work.counter
+# Loading work.xm_latch
+# Loading work.mydmem_mod
+# Loading work.mw_latch
+# Loading work.PS2_Interface
+# Loading work.PS2_Controller
+# Loading work.Altera_UP_PS2_Data_In
+# Loading work.Altera_UP_PS2_Command_Out
+# Loading work.Hexadecimal_To_Seven_Segment
+# Loading work.ascii_to_seven_seg
+# Loading sv_std.std
+# Loading work.lcd
+# Loading work.Reset_Delay
+# Loading work.VGA_Audio_PLL
+# Loading work.vga_controller
+# Loading work.video_sync_generator
+# Loading work.img_data
+# Loading work.img_index
+# Loading altera_mf_ver.MF_stratix_pll
+# Loading altera_mf_ver.stx_m_cntr
+# Loading altera_mf_ver.stx_n_cntr
+# Loading altera_mf_ver.stx_scale_cntr
+# Loading altera_mf_ver.MF_pll_reg
+# Loading altera_mf_ver.dffp
+# Loading altera_mf_ver.altsyncram_body
+# Loading altera_mf_ver.ALTERA_MF_MEMORY_INITIALIZATION
+# Loading work.dffe1
+# Loading altera_mf_ver.MF_stratixii_pll
+# Loading altera_mf_ver.arm_m_cntr
+# Loading altera_mf_ver.arm_n_cntr
+# Loading altera_mf_ver.arm_scale_cntr
+# ** Warning: (vsim-3017) C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/skeleton_tb.v(8): [TFMPC] - Too few port connections. Expected 34, found 6.
+#    Time: 0 ps  Iteration: 0  Instance: /skeleton_tb/my_skel File: C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/skeleton.v
+# ** Warning: (vsim-3722) C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/skeleton_tb.v(8): [TFMPC] - Missing connection for port 'ps2_clock'.
+# ** Warning: (vsim-3722) C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/skeleton_tb.v(8): [TFMPC] - Missing connection for port 'ps2_data'.
+# ** Warning: (vsim-3722) C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/skeleton_tb.v(8): [TFMPC] - Missing connection for port 'debug_data_in'.
+# ** Warning: (vsim-3722) C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/skeleton_tb.v(8): [TFMPC] - Missing connection for port 'debug_addr'.
+# ** Warning: (vsim-3722) C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/skeleton_tb.v(8): [TFMPC] - Missing connection for port 'leds'.
+# ** Warning: (vsim-3722) C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/skeleton_tb.v(8): [TFMPC] - Missing connection for port 'lcd_data'.
+# ** Warning: (vsim-3722) C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/skeleton_tb.v(8): [TFMPC] - Missing connection for port 'lcd_rw'.
+# ** Warning: (vsim-3722) C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/skeleton_tb.v(8): [TFMPC] - Missing connection for port 'lcd_en'.
+# ** Warning: (vsim-3722) C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/skeleton_tb.v(8): [TFMPC] - Missing connection for port 'lcd_rs'.
+# ** Warning: (vsim-3722) C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/skeleton_tb.v(8): [TFMPC] - Missing connection for port 'lcd_on'.
+# ** Warning: (vsim-3722) C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/skeleton_tb.v(8): [TFMPC] - Missing connection for port 'lcd_blon'.
+# ** Warning: (vsim-3722) C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/skeleton_tb.v(8): [TFMPC] - Missing connection for port 'seg1'.
+# ** Warning: (vsim-3722) C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/skeleton_tb.v(8): [TFMPC] - Missing connection for port 'seg2'.
+# ** Warning: (vsim-3722) C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/skeleton_tb.v(8): [TFMPC] - Missing connection for port 'seg3'.
+# ** Warning: (vsim-3722) C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/skeleton_tb.v(8): [TFMPC] - Missing connection for port 'seg4'.
+# ** Warning: (vsim-3722) C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/skeleton_tb.v(8): [TFMPC] - Missing connection for port 'seg5'.
+# ** Warning: (vsim-3722) C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/skeleton_tb.v(8): [TFMPC] - Missing connection for port 'seg6'.
+# ** Warning: (vsim-3722) C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/skeleton_tb.v(8): [TFMPC] - Missing connection for port 'seg7'.
+# ** Warning: (vsim-3722) C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/skeleton_tb.v(8): [TFMPC] - Missing connection for port 'seg8'.
+# ** Warning: (vsim-3722) C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/skeleton_tb.v(8): [TFMPC] - Missing connection for port 'VGA_CLK'.
+# ** Warning: (vsim-3722) C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/skeleton_tb.v(8): [TFMPC] - Missing connection for port 'VGA_HS'.
+# ** Warning: (vsim-3722) C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/skeleton_tb.v(8): [TFMPC] - Missing connection for port 'VGA_VS'.
+# ** Warning: (vsim-3722) C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/skeleton_tb.v(8): [TFMPC] - Missing connection for port 'VGA_BLANK'.
+# ** Warning: (vsim-3722) C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/skeleton_tb.v(8): [TFMPC] - Missing connection for port 'VGA_SYNC'.
+# ** Warning: (vsim-3722) C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/skeleton_tb.v(8): [TFMPC] - Missing connection for port 'VGA_R'.
+# ** Warning: (vsim-3722) C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/skeleton_tb.v(8): [TFMPC] - Missing connection for port 'VGA_G'.
+# ** Warning: (vsim-3722) C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/skeleton_tb.v(8): [TFMPC] - Missing connection for port 'VGA_B'.
+# ** Warning: (vsim-3722) C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/skeleton_tb.v(8): [TFMPC] - Missing connection for port 'CLOCK_50'.
+# ** Warning: (vsim-3017) C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/PS2_Interface.v(20): [TFMPC] - Too few port connections. Expected 10, found 6.
+#    Time: 0 ps  Iteration: 0  Instance: /skeleton_tb/my_skel/myps2/PS2 File: C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/PS2_Controller.v
+# ** Warning: (vsim-3722) C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/PS2_Interface.v(20): [TFMPC] - Missing connection for port 'the_command'.
+# ** Warning: (vsim-3722) C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/PS2_Interface.v(20): [TFMPC] - Missing connection for port 'send_command'.
+# ** Warning: (vsim-3722) C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/PS2_Interface.v(20): [TFMPC] - Missing connection for port 'command_was_sent'.
+# ** Warning: (vsim-3722) C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/PS2_Interface.v(20): [TFMPC] - Missing connection for port 'error_communication_timed_out'.
+# ** Warning: (vsim-3015) C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/skeleton.v(478): [PCDPC] - Port size (33) does not match connection size (32) for port 'ascii'. The port definition is at: C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/ascii_to_seven_seg.v(1).
+#    Time: 0 ps  Iteration: 0  Instance: /skeleton_tb/my_skel/my_sevenseg File: C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/ascii_to_seven_seg.v
+# ** Warning: Design size of 11756 statements exceeds ModelSim-Intel FPGA Starter Edition recommended capacity.
+# Expect performance to be adversely affected.
+# 
+# add wave *
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run -all
+# << Test processor >>
+#  Note : Cyclone II PLL is enabled
+# Time: 0  Instance: skeleton_tb.my_skel.p1.altpll_component.stratixii_pll.pll1
+# ** Note: $stop    : C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/skeleton_tb.v(44)
+#    Time: 16531 ns  Iteration: 0  Instance: /skeleton_tb
+# Break in Module skeleton_tb at C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/skeleton_tb.v line 44
+# End time: 21:17:13 on Dec 08,2017, Elapsed time: 0:02:26
+# Errors: 0, Warnings: 36

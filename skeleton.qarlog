@@ -1,0 +1,54 @@
+Quartus Prime Archive log --	C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/skeleton.qarlog
+
+Archive:	C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/skeleton.qar
+Date:		Thu Dec 07 21:27:46 2017
+Quartus Prime		17.0.0 Build 595 04/25/2017 SJ Lite Edition
+
+	=========== Files Selected: ===========
+C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/Altera_UP_PS2_Command_Out.v
+C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/Altera_UP_PS2_Data_In.v
+C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/Hexadecimal_To_Seven_Segment.v
+C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/PS2_Controller.v
+C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/PS2_Interface.v
+C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/Reset_Delay.v
+C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/VGA_Audio_PLL.v
+C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/ascii_to_seven_seg.v
+C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/assignment_defaults.qdf
+C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/color_data.mif
+C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/dmem.cmp
+C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/dmem.mif
+C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/dmem.qip
+C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/dmem.v
+C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/dmem_inst.v
+C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/image_data.mif
+C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/imem.cmp
+C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/imem.mif
+C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/imem.qip
+C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/imem.v
+C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/imem_inst.v
+C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/img_bars.mif
+C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/img_data.v
+C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/img_data_logo.mif
+C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/img_index.v
+C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/index.mif
+C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/index_logo.mif
+C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/lab7_img_data.mif
+C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/lab7_img_index.mif
+C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/lcd.sv
+C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/output_files/Chain1.cdf
+C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/pll.bsf
+C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/pll.cmp
+C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/pll.ppf
+C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/pll.qip
+C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/pll.v
+C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/processor.v
+C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/skeleton.qpf
+C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/skeleton.qsf
+C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/skeleton.v
+C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/skeleton_assignment_defaults.qdf
+C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/vga_controller.v
+C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/video_sync_generator.v
+	======= Total: 43 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.

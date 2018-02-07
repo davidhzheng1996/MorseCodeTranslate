@@ -1,0 +1,1373 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/simulation/modelsim
+vAdder32
+Z1 !s110 1512785685
+!i10b 1
+!s100 ][SEP]d>OW@@011f[1R[T1
+I@jYCe=_a679b0lfzBAG`T2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1509826219
+8C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/alu/Adder32.v
+FC:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/alu/Adder32.v
+L0 4
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1512785685.000000
+Z5 !s107 C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/mydmem.v|C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/common/changed_cycle.v|C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/timer/tim_counter.v|C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/timer/morse_rec.v|C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/multdiv/div_counter.v|C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/multdiv/aligner.v|C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/multdiv/shftdiv_debug.v|C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/multdiv/div_debug.v|C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/multdiv/counter.v|C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/common/decoder32.v|C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/multdiv/findc.v|C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/multdiv/shiftadder.v|C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/multdiv/reg32.v|C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/multdiv/multi.v|C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/multdiv/multdiv.v|C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/reg_file/isZero.v|C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/reg_file/equal5bits.v|C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/reg_file/dffe1.v|C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/reg_file/reg32bits.v|C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/reg_file/mux.v|C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/reg_file/decoder32bits.v|C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/reg_file/regfile.v|C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/paramd_reg/reg_n.v|C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/common/mydffe.v|C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/common/changed.v|C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/common/SRA32.v|C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/common/SLL32.v|C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/common/Comparer0.v|C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/common/Comparer.v|C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/common/AND32.v|C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/common/OR32.v|C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/alu/OPdecoder.v|C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/common/CLA8bit.v|C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/alu/Adder32.v|C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/alu/Subber32.v|C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/alu/alu.v|C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/processor.v|
+Z6 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored|C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/processor.v|
+!i113 1
+Z7 o-vlog01compat -work work
+Z8 !s92 -vlog01compat -work work {+incdir+C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored}
+Z9 tCvgOpt 0
+n@adder32
+valigner
+R1
+!i10b 1
+!s100 U7P7_h@464k_2U^MI;_^71
+IBb^7CN3>Z1Z5TCl<`^Ak?3
+R2
+R0
+w1510019739
+8C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/multdiv/aligner.v
+FC:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/multdiv/aligner.v
+Z10 L0 12
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+R9
+vAltera_UP_PS2_Command_Out
+Z11 !s110 1512785684
+!i10b 1
+!s100 ZjDIV:z^W4aE7ECD]ReVK0
+Id`1c=U@@?1XjNR[ZA881H0
+R2
+R0
+w1394232846
+8C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/Altera_UP_PS2_Command_Out.v
+FC:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/Altera_UP_PS2_Command_Out.v
+Z12 L0 10
+R3
+r1
+!s85 0
+31
+Z13 !s108 1512785684.000000
+!s107 C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/Altera_UP_PS2_Command_Out.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored|C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/Altera_UP_PS2_Command_Out.v|
+!i113 1
+R7
+R8
+R9
+n@altera_@u@p_@p@s2_@command_@out
+vAltera_UP_PS2_Data_In
+R11
+!i10b 1
+!s100 ee^TmQcGZ[E_>UMojW[Zg0
+IbPbHj<BkdJ17Mzc^Uokg83
+R2
+R0
+w1394232855
+8C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/Altera_UP_PS2_Data_In.v
+FC:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/Altera_UP_PS2_Data_In.v
+R12
+R3
+r1
+!s85 0
+31
+Z14 !s108 1512785683.000000
+!s107 C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/Altera_UP_PS2_Data_In.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored|C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/Altera_UP_PS2_Data_In.v|
+!i113 1
+R7
+R8
+R9
+n@altera_@u@p_@p@s2_@data_@in
+valu
+R1
+!i10b 1
+!s100 QfXQ[SN55=N_Ja4g1JCDH2
+I@1?:4jjOag@9bLcWk_W[A1
+R2
+R0
+w1509721857
+8C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/alu/alu.v
+FC:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/alu/alu.v
+R10
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+R9
+vAND32
+R1
+!i10b 1
+!s100 4PFR_a@`oiV4?VBR;[I@`2
+IJhDe<VDABc78YCRiN>Z0:3
+R2
+R0
+w1506394213
+8C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/common/AND32.v
+FC:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/common/AND32.v
+L0 4
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+R9
+n@a@n@d32
+vascii_to_seven_seg
+R1
+!i10b 1
+!s100 omz@R5i6<@IQ6e_Sial2K2
+I<N85dLW]Cnf@;VUb3dz2I0
+R2
+R0
+w1512681223
+8C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/ascii_to_seven_seg.v
+FC:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/ascii_to_seven_seg.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/ascii_to_seven_seg.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored|C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/ascii_to_seven_seg.v|
+!i113 1
+R7
+R8
+R9
+vchanged
+R1
+!i10b 1
+!s100 c=hb?l4Ume?LMHXMI9L2R0
+IE@mdDOG?K=[gRHT7`1lG<0
+R2
+R0
+w1510201241
+8C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/common/changed.v
+FC:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/common/changed.v
+L0 8
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+R9
+vchanged_cycle
+Z15 !s110 1512785686
+!i10b 1
+!s100 zaI6A@E?h@1c][FeW[23F2
+Ic=g`BLMCVN`]c[`<M?mA?3
+R2
+R0
+w1512277071
+8C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/common/changed_cycle.v
+FC:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/common/changed_cycle.v
+L0 9
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+R9
+vCLA8bit
+R1
+!i10b 1
+!s100 aInDf`FbCzz>M4CP5<HK:1
+IE?IGmSljacNZ5kkFDK9lG2
+R2
+R0
+w1509826349
+8C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/common/CLA8bit.v
+FC:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/common/CLA8bit.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+R9
+n@c@l@a8bit
+vComparer
+R1
+!i10b 1
+!s100 ^Hz^4e`[UzN]z_e<F1ZK@0
+I2d3=9eOQ`G]@@N416c?:a2
+R2
+R0
+w1509695755
+8C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/common/Comparer.v
+FC:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/common/Comparer.v
+L0 5
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+R9
+n@comparer
+vComparer0
+R1
+!i10b 1
+!s100 GKbVJHWlhC7]^oF`^;knb0
+Ielca@79oCNk1Co0NoRIPS1
+R2
+R0
+w1509826382
+8C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/common/Comparer0.v
+FC:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/common/Comparer0.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+R9
+n@comparer0
+vcounter
+R1
+!i10b 1
+!s100 Ld:ec?dW@oKl=V_`A_c][0
+I3b;zE>fk?Rh4MkNOAK_m:3
+R2
+R0
+w1510019685
+8C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/multdiv/counter.v
+FC:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/multdiv/counter.v
+L0 6
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+R9
+vdecoder32
+R1
+!i10b 1
+!s100 ?Algk9RFbM_Tj]edLfC4A2
+IgVS;4G1]?C_J;T<m@eFG63
+R2
+R0
+w1507745595
+8C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/common/decoder32.v
+FC:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/common/decoder32.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+R9
+vdecoder32bits
+R1
+!i10b 1
+!s100 @jLVg]^VE[JVk32PlMOAJ1
+IA96>E8h`jIN7Wgl5Q@4C=0
+R2
+R0
+w1512267647
+8C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/reg_file/decoder32bits.v
+FC:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/reg_file/decoder32bits.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+R9
+vdffe1
+R1
+!i10b 1
+!s100 7_@4b:fT]XSnW?IMYe4Uc1
+I^am>?H?mQ221W@em<F8bE0
+R2
+R0
+w1508210153
+8C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/reg_file/dffe1.v
+FC:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/reg_file/dffe1.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+R9
+vdiv
+R1
+!i10b 1
+!s100 Piml4];I8h2Yain8ehV5d3
+IUNo0:fcU[>k9Vm:h5j6Pl0
+R2
+R0
+w1510020067
+8C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/multdiv/div_debug.v
+FC:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/multdiv/div_debug.v
+R10
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+R9
+vdiv_counter
+R1
+!i10b 1
+!s100 cL@Y=ilVN=fmEnI76=lPL3
+IKHSOa9DHi>BU6CVgbNaTM1
+R2
+R0
+w1510019648
+8C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/multdiv/div_counter.v
+FC:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/multdiv/div_counter.v
+L0 6
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+R9
+vdx_latch
+R15
+!i10b 1
+!s100 AY5B]^@?hlFzIGVcMZ5?P3
+I3dk]bUgaEBFe<5ZYCkT4]3
+R2
+R0
+Z16 w1512777201
+Z17 8C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/processor.v
+Z18 FC:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/processor.v
+L0 542
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+R9
+vequal5bits
+R1
+!i10b 1
+!s100 J>Pn3;j;M=QDEL>kD?4DX0
+IE8XB7^b4h65cBGag6^14?2
+R2
+R0
+w1510090079
+8C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/reg_file/equal5bits.v
+FC:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/reg_file/equal5bits.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+R9
+vfd_latch
+R15
+!i10b 1
+!s100 RHEZGZo5ZQz`79o;Lb:FS0
+I?AECKz^QEXdbEdiT@hS8?1
+R2
+R0
+R16
+R17
+R18
+L0 527
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+R9
+vfindc
+R1
+!i10b 1
+!s100 oCWRO4ElAlFETDH@`aXY70
+I00hSLLfiK[oL3;QL:7b]O3
+R2
+R0
+w1510019777
+8C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/multdiv/findc.v
+FC:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/multdiv/findc.v
+L0 5
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+R9
+vHexadecimal_To_Seven_Segment
+Z19 !s110 1512785683
+!i10b 1
+!s100 >j7dlo6D<6b_bXMV;SleR2
+IUBXV6SzQA;d?7zDmO`fzM1
+R2
+R0
+w1512669984
+8C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/Hexadecimal_To_Seven_Segment.v
+FC:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/Hexadecimal_To_Seven_Segment.v
+L0 9
+R3
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/Hexadecimal_To_Seven_Segment.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored|C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/Hexadecimal_To_Seven_Segment.v|
+!i113 1
+R7
+R8
+R9
+n@hexadecimal_@to_@seven_@segment
+vimem
+R19
+!i10b 1
+!s100 VTi^BmoFfCVbn3IPNANOh1
+I<OW55Do:G^hhT=M<ZEDIU2
+R2
+R0
+w1512605946
+8C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/imem.v
+FC:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/imem.v
+Z20 L0 40
+R3
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/imem.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored|C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/imem.v|
+!i113 1
+R7
+R8
+R9
+vimg_data
+R1
+!i10b 1
+!s100 IQ34R@Wf];IT:nI[SiD0N1
+IK7@YKC?MDRYB`aTCfXPMO3
+R2
+R0
+w1512739207
+8C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/img_data.v
+FC:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/img_data.v
+R20
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/img_data.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored|C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/img_data.v|
+!i113 1
+R7
+R8
+R9
+vimg_index
+R1
+!i10b 1
+!s100 aQMO?dNh6JMGHK1z?Pfc00
+IlU85zFYiahigi`I2?L9R[3
+R2
+R0
+w1512739246
+8C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/img_index.v
+FC:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/img_index.v
+R20
+R3
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/img_index.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored|C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/img_index.v|
+!i113 1
+R7
+R8
+R9
+visZero
+R1
+!i10b 1
+!s100 Of@b2B1UbIiO7XhQZZCg:3
+ITDoAkLORN:_zE`SQL3EJk2
+R2
+R0
+w1510092234
+8C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/reg_file/isZero.v
+FC:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/reg_file/isZero.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+R9
+nis@zero
+vlcd
+DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+R15
+!i10b 1
+!s100 nGk]9kR>KPI^`i1g;HWk^3
+I0nSgR>af0jdO8nBfhJ5Jm1
+R2
+!s105 lcd_sv_unit
+S1
+R0
+w1512680115
+8C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/lcd.sv
+FC:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/lcd.sv
+L0 1
+R3
+r1
+!s85 0
+31
+Z21 !s108 1512785686.000000
+!s107 C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/lcd.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored|C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/lcd.sv|
+!i113 1
+o-sv -work work
+!s92 -sv -work work {+incdir+C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored}
+R9
+vmorse_rec
+R15
+!i10b 1
+!s100 mM8NZFGmjz6E4N;dMA`D71
+IaWVfQ5g5Y1SGlSYIoeKUQ0
+R2
+R0
+w1512720347
+8C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/timer/morse_rec.v
+FC:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/timer/morse_rec.v
+L0 7
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+R9
+vmultdiv
+R1
+!i10b 1
+!s100 ROJ[IUM5oCDQJ]<ILKR1N0
+IaSohl]?2oZb@k`Unb387j3
+R2
+R0
+w1510199491
+8C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/multdiv/multdiv.v
+FC:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/multdiv/multdiv.v
+L0 8
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+R9
+vmulti
+R1
+!i10b 1
+!s100 =CPl6XBM9<HlC8MXRaX1O1
+IQ6USBKnmhJ9OA95NN4GVc1
+R2
+R0
+w1510019899
+8C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/multdiv/multi.v
+FC:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/multdiv/multi.v
+R10
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+R9
+vmux
+R1
+!i10b 1
+!s100 UE`PKP?9`fM^nddD4JcC^1
+IcFXUU2Q8FgEmjHk[N>iRe3
+R2
+R0
+w1512271825
+8C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/reg_file/mux.v
+FC:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/reg_file/mux.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+R9
+vmw_latch
+R15
+!i10b 1
+!s100 VEC<?71=AgLb0QSm=]<AG1
+If7`YjAfFVInTQhgzzB?8b3
+R2
+R0
+R16
+R17
+R18
+L0 589
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+R9
+vmydffe
+R1
+!i10b 1
+!s100 >b^MmGW;Mn1gDlCQ7ndEF2
+I=4E?ICb`bKn[AHK^[MF_:0
+R2
+R0
+w1508176060
+8C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/common/mydffe.v
+FC:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/common/mydffe.v
+L0 5
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+R9
+vmydmem_mod
+R15
+!i10b 1
+!s100 OMZ0=3e<z^Z51XQ6<Bg<40
+I^DNG[JeJo[7GNIoeH^RGU3
+R2
+R0
+w1512529940
+8C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/mydmem.v
+FC:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/mydmem.v
+L0 4
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+R9
+vop_decoder
+R15
+!i10b 1
+!s100 fzRN;D^k<GdmS<9I08?D33
+IZ?jA`5=h_5SX:VbYB6@XN2
+R2
+R0
+R16
+R17
+R18
+L0 485
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+R9
+vOPdecoder
+R1
+!i10b 1
+!s100 9iF>;OR58bKN0lz0MzO_K2
+IU?:XPP5`f;6?IObIaAiT;2
+R2
+R0
+w1509826230
+8C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/alu/OPdecoder.v
+FC:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/alu/OPdecoder.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+R9
+n@o@pdecoder
+vOR32
+R1
+!i10b 1
+!s100 V:EhZjN=fHbF3Ji;[Tj<72
+I0=9>fd=1AASl9M;^<oYb=1
+R2
+R0
+w1506352888
+8C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/common/OR32.v
+FC:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/common/OR32.v
+L0 4
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+R9
+n@o@r32
+vpc_reg
+R15
+!i10b 1
+!s100 i@INJXlTj6izNK9C[JanO3
+In^HbYER>>o@0S?6[BjDjg1
+R2
+R0
+R16
+R17
+R18
+L0 477
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+R9
+vpll
+R19
+!i10b 1
+!s100 el8m9?VhINk2D<LX>]oEj3
+Ia@[N4E]Zdeig`bRSb4GAF1
+R2
+R0
+w1458869483
+8C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/pll.v
+FC:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/pll.v
+Z22 L0 39
+R3
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/pll.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored|C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/pll.v|
+!i113 1
+R7
+R8
+R9
+vpll_altpll
+R1
+!i10b 1
+!s100 2[X4]z<HMg5W5S4]lA8_11
+IHcRjLEAJ=IID@3091f6;H2
+R2
+R0
+w1512613397
+8C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/db/pll_altpll.v
+FC:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/db/pll_altpll.v
+L0 30
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/db/pll_altpll.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/db|C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/db/pll_altpll.v|
+!i113 1
+R7
+!s92 -vlog01compat -work work {+incdir+C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/db}
+R9
+vprocessor
+R15
+!i10b 1
+!s100 O7N:o[]KQ5V72f8fgUPfj3
+I6Wb0jc^OliZJlJ8f[lEJ61
+R2
+R0
+R16
+R17
+R18
+L0 43
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+R9
+vPS2_Controller
+R19
+!i10b 1
+!s100 SBbk<]9<EO>4gfA4Nk28g0
+ILim<9oIAT=FUEZo4<71;52
+R2
+R0
+w1458872591
+8C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/PS2_Controller.v
+FC:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/PS2_Controller.v
+L0 9
+R3
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/PS2_Controller.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored|C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/PS2_Controller.v|
+!i113 1
+R7
+R8
+R9
+n@p@s2_@controller
+vPS2_Interface
+Z23 !s110 1512785682
+!i10b 1
+!s100 U_CGUUFDk3cUc^jbb>NfB2
+I:]>l;`VEE<4]fHP9h`7M:1
+R2
+R0
+w1394308841
+8C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/PS2_Interface.v
+FC:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/PS2_Interface.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z24 !s108 1512785682.000000
+!s107 C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/PS2_Interface.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored|C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/PS2_Interface.v|
+!i113 1
+R7
+R8
+R9
+n@p@s2_@interface
+vreg32
+R1
+!i10b 1
+!s100 KmgZ]`z4dm:5Q8GABA`H03
+I?@K3Gf0GVA]FX4FYA<2T]0
+R2
+R0
+w1510019795
+8C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/multdiv/reg32.v
+FC:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/multdiv/reg32.v
+L0 6
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+R9
+vreg32bits
+R1
+!i10b 1
+!s100 AhCO7VV5ANLQLKJVm`am`2
+I;;9@K5PHkOUd^bMPOk5_52
+R2
+R0
+w1512267676
+8C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/reg_file/reg32bits.v
+FC:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/reg_file/reg32bits.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+R9
+vreg_n
+R1
+!i10b 1
+!s100 `X6N2_dI[A<b@8e`<217W3
+ILWX^Bk:>5ggLK<a=^nRbW1
+R2
+R0
+w1509693785
+8C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/paramd_reg/reg_n.v
+FC:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/paramd_reg/reg_n.v
+Z25 L0 11
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+R9
+vregfile
+R1
+!i10b 1
+!s100 F?d^I]fn3e>[2PSL5CP_81
+IHUffAUkzi71ABml4V>4671
+R2
+R0
+w1512595175
+8C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/reg_file/regfile.v
+FC:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/reg_file/regfile.v
+R25
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+R9
+vReset_Delay
+R23
+!i10b 1
+!s100 <?EH4X[VcB<k?aKTEg:<H0
+I8Edbb5kElDEUKocc7V_G41
+R2
+R0
+w1466757842
+8C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/Reset_Delay.v
+FC:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/Reset_Delay.v
+L0 1
+R3
+r1
+!s85 0
+31
+R24
+!s107 C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/Reset_Delay.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored|C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/Reset_Delay.v|
+!i113 1
+R7
+R8
+R9
+n@reset_@delay
+vshiftadder
+R1
+!i10b 1
+!s100 zf`lDmC6:@7V55@=Oh3_10
+I9k0FgI[?3=da3UbZF8I[C1
+R2
+R0
+w1510020023
+8C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/multdiv/shiftadder.v
+FC:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/multdiv/shiftadder.v
+L0 13
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+R9
+vshiftdiver
+R1
+!i10b 1
+!s100 Nmn8og5g[HIJmkGLHZDbo1
+IHDG1YZ_@PWA6G@C688]9D0
+R2
+R0
+w1510019973
+8C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/multdiv/shftdiv_debug.v
+FC:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/multdiv/shftdiv_debug.v
+L0 16
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+R9
+vskeleton
+R23
+!i10b 1
+!s100 l`INkn@e`Kg[CVXNC0SE]2
+Ieln2a?PckKmgE2nL4SP:l3
+R2
+R0
+w1512778090
+8C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/skeleton.v
+FC:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/skeleton.v
+L0 2
+R3
+r1
+!s85 0
+31
+R24
+!s107 C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/skeleton.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored|C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/skeleton.v|
+!i113 1
+R7
+R8
+R9
+vskeleton_tb
+R15
+!i10b 1
+!s100 C3B;2C=UAdCmIKn_K9>>N0
+I>jhdKlC^XSG`GG8l9d2BZ1
+R2
+R0
+w1512777984
+8C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/skeleton_tb.v
+FC:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/skeleton_tb.v
+L0 2
+R3
+r1
+!s85 0
+31
+R21
+!s107 C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/skeleton_tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored|C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/skeleton_tb.v|
+!i113 1
+R7
+R8
+R9
+vSLL32
+R1
+!i10b 1
+!s100 aBRK>A]_6B4[zknY<iLR51
+IP6D90G@PBLfWTWI:2OTUO1
+R2
+R0
+w1506398135
+8C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/common/SLL32.v
+FC:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/common/SLL32.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+R9
+n@s@l@l32
+vSRA32
+R1
+!i10b 1
+!s100 =bm4;lGSki:KE>8;:5VC]0
+I_U[4EVeK6[Kkc^]zPhSWg2
+R2
+R0
+w1506399677
+8C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/common/SRA32.v
+FC:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/common/SRA32.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+R9
+n@s@r@a32
+vSubber32
+R1
+!i10b 1
+!s100 lcdCbIKTYBYOmelF^AJP41
+IPW`S3LiOLggW8X4]hk7=K1
+R2
+R0
+w1509826226
+8C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/alu/Subber32.v
+FC:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/alu/Subber32.v
+L0 4
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+R9
+n@subber32
+vtim_counter
+R1
+!i10b 1
+!s100 M9k8zW7iJeW7]^9RV2R:K1
+IF`:YeH^ZzYZZF7=TnFda13
+R2
+R0
+w1511600800
+8C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/timer/tim_counter.v
+FC:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/timer/tim_counter.v
+L0 7
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+R9
+vVGA_Audio_PLL
+R23
+!i10b 1
+!s100 ]_G[h[5PmjnW=UbgX^dRW3
+I_=Xnz=i?;h[I5I3^=WN;<0
+R2
+R0
+w1412895358
+8C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/VGA_Audio_PLL.v
+FC:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/VGA_Audio_PLL.v
+R22
+R3
+r1
+!s85 0
+31
+R24
+!s107 C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/VGA_Audio_PLL.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored|C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/VGA_Audio_PLL.v|
+!i113 1
+R7
+R8
+R9
+n@v@g@a_@audio_@p@l@l
+vvga_controller
+R11
+!i10b 1
+!s100 6SfjXme]8Y]iXC<Y[;II;3
+IcoVI:O>2<eh`Bz@VC70bL1
+R2
+R0
+w1512756291
+8C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/vga_controller.v
+FC:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/vga_controller.v
+L0 1
+R3
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/vga_controller.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored|C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/vga_controller.v|
+!i113 1
+R7
+R8
+R9
+vvideo_sync_generator
+R11
+!i10b 1
+!s100 5jkgiEod8eSjhRXb_KO0n3
+I7a_=BTW9U2XLjoO[dO=Bg3
+R2
+R0
+w1466753823
+8C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/video_sync_generator.v
+FC:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/video_sync_generator.v
+L0 1
+R3
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/video_sync_generator.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored|C:/Users/David/Documents/Fall 2017/ECE 350/Final Project/lab7/lab7_restored/video_sync_generator.v|
+!i113 1
+R7
+R8
+R9
+vxm_latch
+R15
+!i10b 1
+!s100 M0M6RAZjD7d<:l5`S`lAF3
+IB]Rd8JKlBUYQYdQg9Ylzo3
+R2
+R0
+R16
+R17
+R18
+L0 569
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+R9

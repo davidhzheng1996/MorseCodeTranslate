@@ -1,0 +1,101 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'clock'
+Slack : -16.439
+TNS   : -8258.435
+
+Type  : Slow 1200mV 85C Model Setup 'morse'
+Slack : -6.652
+TNS   : -38.338
+
+Type  : Slow 1200mV 85C Model Hold 'morse'
+Slack : -0.606
+TNS   : -1.812
+
+Type  : Slow 1200mV 85C Model Hold 'clock'
+Slack : 0.429
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'clock'
+Slack : -2.613
+TNS   : -77.756
+
+Type  : Slow 1200mV 85C Model Removal 'clock'
+Slack : 2.251
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clock'
+Slack : -3.000
+TNS   : -2006.998
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'morse'
+Slack : -3.000
+TNS   : -3.000
+
+Type  : Slow 1200mV 0C Model Setup 'clock'
+Slack : -14.969
+TNS   : -7530.451
+
+Type  : Slow 1200mV 0C Model Setup 'morse'
+Slack : -6.152
+TNS   : -31.882
+
+Type  : Slow 1200mV 0C Model Hold 'morse'
+Slack : -0.584
+TNS   : -1.785
+
+Type  : Slow 1200mV 0C Model Hold 'clock'
+Slack : 0.394
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'clock'
+Slack : -2.301
+TNS   : -67.725
+
+Type  : Slow 1200mV 0C Model Removal 'clock'
+Slack : 2.015
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clock'
+Slack : -3.000
+TNS   : -2006.294
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'morse'
+Slack : -3.000
+TNS   : -3.000
+
+Type  : Fast 1200mV 0C Model Setup 'clock'
+Slack : -7.736
+TNS   : -3318.037
+
+Type  : Fast 1200mV 0C Model Setup 'morse'
+Slack : -2.629
+TNS   : -9.055
+
+Type  : Fast 1200mV 0C Model Hold 'morse'
+Slack : -0.278
+TNS   : -0.838
+
+Type  : Fast 1200mV 0C Model Hold 'clock'
+Slack : 0.189
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'clock'
+Slack : -1.421
+TNS   : -42.628
+
+Type  : Fast 1200mV 0C Model Removal 'clock'
+Slack : 1.132
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clock'
+Slack : -3.000
+TNS   : -1690.825
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'morse'
+Slack : -3.000
+TNS   : -3.159
+
+------------------------------------------------------------

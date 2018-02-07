@@ -1,0 +1,7 @@
+module asciitomorse(morse_ascii, morsecode);
+	input [31:0] morse_ascii;
+	output [9:0] morsecode;
+	
+	
+
+endmodule

@@ -1,0 +1,7 @@
+module ascii_to_seven_seg(ascii, sevenseg);
+	input
+
+
+endmodule
+
+
